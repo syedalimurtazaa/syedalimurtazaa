@@ -36,8 +36,6 @@ I'm a final-year **AI undergraduate** based in Karachi, Pakistan, with hands-on 
 **🕸️ Agentic AI Frameworks**
 <br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square" height="48"/>
-<img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square" height="48"/>
 
 **👁️ Computer Vision**
 <br/>
@@ -47,7 +45,7 @@ I'm a final-year **AI undergraduate** based in Karachi, Pakistan, with hands-on 
 
 **🧰 Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 <br/>
 
