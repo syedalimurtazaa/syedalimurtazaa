@@ -45,8 +45,7 @@ I'm a final-year **AI undergraduate** based in Karachi, Pakistan, with hands-on 
 
 **🧰 Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
+<img src="https://skillicons.dev/icons?i=github,vscode" />
 <br/>
 
 ---
