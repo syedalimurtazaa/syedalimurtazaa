@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Muhammad Ali Murtaza 👋</h1>
 
-<h3 align="center">AI Engineer | Agentic AI & Computer Vision Explorer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=0e75b6&center=true&vCenter=true&width=600&lines=AI+Engineer;Agentic+AI+%26+RAG+Explorer;Computer+Vision+Enthusiast;Building+Autonomous+AI+Systems" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=syedalimurtazaa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
